@@ -1,1 +1,1 @@
-C:\Users\jijs\AppData\Roaming
+$env:AppData\TouchCursor
